@@ -1,0 +1,15 @@
+.cool{
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+}
+img{
+    width: 180px;
+    height: 250px;
+    object-fit: fill;
+    border: none;
+    border-radius: 10px;
+
+}
